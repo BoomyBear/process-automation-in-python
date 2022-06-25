@@ -9,3 +9,8 @@ przypisz go do nowej zmiennej i wypisz na ekran.
 Podpowiedź:
 Skorzystaj z modułu random
 """
+import random
+
+listOfColors = ['red','blue','yellow','black']
+
+print(listOfColors)
