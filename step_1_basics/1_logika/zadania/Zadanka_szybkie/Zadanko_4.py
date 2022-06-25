@@ -5,3 +5,7 @@ napisac sto razy zdanie
 
 Wciel sie w role Jasia i wykonaj to zadanie w Pythonie
 """
+
+
+zadanie = "Bede pilnie sluchal trenera \n"
+print(zadanie*100)

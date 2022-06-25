@@ -20,5 +20,3 @@ print(licznik_for)
 
 
 
-
-
