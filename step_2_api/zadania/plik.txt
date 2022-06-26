@@ -1,0 +1,5 @@
+${flag_hello_there}
+${flag_general_kenobi}
+${flag_im_still_here_captain}
+${flag_naughty_aint_ya}
+"${{flag_{user.uuid}_may_the_4th_b_with_u}}"
